@@ -32,13 +32,18 @@
 - 🎓 B.Tech student @ **BIT Sindri**
 - 🤖 Passionate about **Machine Learning & Deep Learning**
 - 🌍 Exploring **AI for real-world impact**
-- 🛠️ Building projects in **ML, IoT & Full-Stack**
+- 🛠️ Building projects in **ML, DL & IOT**
 
 ---
 
 ### ⚡ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,fastapi,streamlit,arduino,docker,git,linux&theme=dark"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="50" height="50" alt="NumPy" style="margin: 0 15px;" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="50" height="50" alt="Pandas" style="margin: 0 15px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" height="50" alt="Matplotlib" style="margin: 0 15px;" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50" alt="Seaborn" style="margin: 0 15px;" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,fastapi,arduino,docker,git,linux,vscode&theme=dark"/>
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50" height="50" alt="Streamlit" style="margin: 0 15px;" />
 </div>
 
 ---
@@ -50,13 +55,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya-k2024&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=7F00FF" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-k2024&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
-</div>
-
----
 
 ### 🔥 Streak Stats
 <div align="center">
@@ -65,11 +63,9 @@
 
 ---
 
+
 <!-- 🌌 Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:3DD6E8,100:00C9FF&height=120&section=footer"/>
 </div>
 
-<p align="center">
-  <i>Let’s build intelligent systems together 🚀</i>
-</p>
